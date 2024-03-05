@@ -15,4 +15,6 @@ Maecenas pulvinar nunc non euismod dapibus. Ut eget vulputate eros. Fusce in nul
 Duis ut auctor magna. Vivamus sed congue justo, et euismod dui. Aenean eu commodo urna, id luctus felis. Aliquam nisl ligula, pharetra ac tristique eu, imperdiet ac enim. Suspendisse quis tellus ut nunc vestibulum fringilla. Maecenas blandit eros sit amet tincidunt vehicula. Aenean lectus nibh, pretium ac nunc in, fermentum pretium odio.
 
 Maecenas venenatis sagittis risus, nec auctor neque pellentesque eget. Proin dictum nisi sit amet turpis commodo pharetra. Etiam semper dictum porta. Aenean ornare lorem ac dolor tincidunt, id tincidunt dolor feugiat. Curabitur mauris ligula, finibus condimentum odio eget, sodales sagittis eros. Duis et libero nec sem mollis bibendum. Integer in urna quis ex convallis venenatis a eu est. Ut a congue metus. Nulla rhoncus nulla id lorem varius tristique. Donec vehicula ligula non molestie interdum.</string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+    <string name="done">Done</string>
 </resources>
