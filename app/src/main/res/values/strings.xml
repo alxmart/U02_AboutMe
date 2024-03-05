@@ -2,4 +2,17 @@
     <string name="app_name">U02_AboutMe</string>
     <string name="name">John Doe</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris felis magna, tincidunt eget odio vestibulum, finibus fermentum ex. Nulla vitae mi aliquet, facilisis purus maximus, tristique felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce eu iaculis orci. Etiam vel porttitor nisi, nec sodales leo. Vivamus et erat eget magna blandit scelerisque. Cras at ex ut sapien pulvinar elementum ac eget augue. Ut non magna metus. Sed tincidunt justo quis urna rhoncus convallis. Curabitur ac urna nisl. Nam hendrerit libero et ornare scelerisque.
+
+Phasellus dictum elementum ipsum eu posuere. Morbi eget mi sit amet orci porta ullamcorper quis eu sem. Quisque facilisis faucibus metus, et aliquet nulla posuere nec. Mauris ullamcorper elit pulvinar eros mollis, a rutrum neque efficitur. Sed a molestie magna. Integer ornare placerat quam, eget lacinia est. Integer turpis urna, auctor quis feugiat sed, dictum ac urna. Curabitur vulputate fermentum dui, in euismod leo fermentum id. Sed at urna sodales, ornare diam mollis, molestie leo.
+
+Sed lobortis tortor at urna dignissim ultricies. Sed ut aliquet nisl. Morbi ex neque, semper quis sollicitudin eu, gravida vitae orci. Nulla egestas bibendum est eget semper. Mauris vel ligula at urna dignissim feugiat eget sed velit. Nunc sed diam vehicula orci vehicula imperdiet. In hac habitasse platea dictumst. Ut viverra velit sed justo venenatis consectetur. Mauris nec sodales risus.
+
+Sed pretium bibendum nulla vitae venenatis. Proin commodo neque dictum tincidunt imperdiet. Aenean id eleifend urna, id eleifend ipsum. Vivamus malesuada lectus sit amet nisl molestie volutpat. Nunc ut urna nisi. Nulla facilisi. In hac habitasse platea dictumst. Vivamus ut dolor vitae ligula rutrum finibus. Vestibulum sem turpis, sagittis in urna ac, placerat bibendum purus. Aliquam pharetra sagittis justo, in faucibus nulla placerat nec. Integer laoreet sapien erat, at scelerisque leo tincidunt eget. Nunc a ipsum iaculis, sollicitudin ligula sollicitudin, feugiat diam. Vivamus ipsum nisl, interdum eu elit non, aliquet ultrices nibh. Praesent at vehicula turpis. Maecenas porta id turpis sit amet laoreet.
+
+Maecenas pulvinar nunc non euismod dapibus. Ut eget vulputate eros. Fusce in nulla molestie ante ultrices dignissim eget cursus lorem. Suspendisse vitae sollicitudin eros. Vivamus eu nulla pretium dui efficitur pulvinar non eu nunc. Aenean sodales lacus in tellus dignissim semper. Aliquam vitae laoreet leo.
+
+Duis ut auctor magna. Vivamus sed congue justo, et euismod dui. Aenean eu commodo urna, id luctus felis. Aliquam nisl ligula, pharetra ac tristique eu, imperdiet ac enim. Suspendisse quis tellus ut nunc vestibulum fringilla. Maecenas blandit eros sit amet tincidunt vehicula. Aenean lectus nibh, pretium ac nunc in, fermentum pretium odio.
+
+Maecenas venenatis sagittis risus, nec auctor neque pellentesque eget. Proin dictum nisi sit amet turpis commodo pharetra. Etiam semper dictum porta. Aenean ornare lorem ac dolor tincidunt, id tincidunt dolor feugiat. Curabitur mauris ligula, finibus condimentum odio eget, sodales sagittis eros. Duis et libero nec sem mollis bibendum. Integer in urna quis ex convallis venenatis a eu est. Ut a congue metus. Nulla rhoncus nulla id lorem varius tristique. Donec vehicula ligula non molestie interdum.</string>
 </resources>
